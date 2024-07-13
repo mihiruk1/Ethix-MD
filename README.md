@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Ethix-MD" height="300" src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg">
+    <img alt="Ethix-MD" height="300" src="https://telegra.ph/file/1e76e7c816f0abe15e783.jpg">
   </a>
 </p>
 
